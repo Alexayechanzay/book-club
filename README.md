@@ -2,6 +2,8 @@
 
 Books & Friends is a social reading app. A member creates a session for one book, other members join, everyone marks chapters complete, and each chapter has its own branching discussion with emoji reactions. A weekly chapter goal and a reading streak sit on the home screen.
 
+**Live demo:** [https://book-club-opal.vercel.app/](https://book-club-opal.vercel.app/)
+
 Two clients share one Supabase project:
 
 | Client | Folder | Stack |
